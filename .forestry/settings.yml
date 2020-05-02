@@ -10,7 +10,7 @@ sections:
   create: documents
   match: "**/*.md"
   templates:
-  - project
+  - vijest
 - type: directory
   path: mapa
   label: Mapa
