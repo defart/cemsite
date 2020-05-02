@@ -1,4 +1,33 @@
 ---
 label: Vijest
 hide_body: false
-fields: []
+fields:
+- name: naslov
+  type: text
+  config:
+    required: false
+  label: Naslov
+  description: Naslov vijesti
+- name: datum
+  type: datetime
+  label: Datum
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: sadrzaj
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Sadrzaj
+  description: Sadrzaj vijesti
+- name: galerija
+  type: image_gallery
+  config: {}
+  label: Galerija
