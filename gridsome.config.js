@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Jewish Cemetery",
+  siteUrl: `https://www.jewishcemeterysplit.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s",
+  siteDescription: "Jewish cemetery",
   plugins: [
     {
       use: "@gridsome/source-filesystem",

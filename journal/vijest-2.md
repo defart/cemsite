@@ -1,0 +1,21 @@
+---
+date: 2020-01-05
+title: The Jewish Community in Split
+author: Zost
+excerpt: The Jewish Community in Split
+
+---
+
+The Jewish community of Split has around one hundred members, making it easy to calculate how many attend Friday evening Sabbath. They have no rabbi, and community is more traditional than religious. This small community never had more than three hundred members in its history, but it had a strong influence disproportionate to its size. Street names testify to this - the Jewish Passage leads to the synagogue which is, alongside the one in Dubrovnik and Prague, one of the oldest European houses of prayers that survived turbulent events in Jewish history . The Jews in Split explain this phenomenon through the kindness of the locals who offered shelter when it could not be found elsewhere.
+
+Archaeological findings from Salona, today displayed in the Archaeological Museum in Split, witnesses the presence of Jews in this area since the Roman Empire. A more adventurous  tourist might try to find dozen menorahs carved in stones near the marble table in the eastern part of the Diocletian Palace's subterranean vaults. These are thought to have belonged to the first synagogue in Split, which was destroyed in the great fire of 1507.
+
+The present day synagogue was established during the benevolent time of powerful Venetian rule in Dalmatia, when the cities of the Venetian Republic were hit by waves of Sephardic Jewish refugees from Spain. They chose Split as a shelter thanks to its significant strategic position between Venice in the West and the Ottoman Empire in the East Mediterranean. Daniel Rodriga, the Jewish consul in Venice, took notice of this strategic position and designed projects to reorganise a port of Split, and secured funds from the Dodge for its realisation. A part of the waterfront bears the name Obala Lazareta to this day, a name which it took after the project. Even more so, the only street where the Jews lived inside the Palace bears Rodriga's name. Located near the synagogue, from the outside a modest building that hardly resembles a place of worship. This was done for security reasons, and because Jews were not allowed to own property, which significantly influenced the nature of their livelihood.
+
+ Interstingly, the inhabited part wedged inside the Palace is today called Get, or the ghetto, which reminiscent of parts of town where isolated Jewish communities lived. Both Christians and Jews found it easier to live separately, and to be divided by a door at night in case of religious outbreak. Following the end of the mighty Venetian  rule, many other Italian cities inherited Jewish ghettos. Jewish families in Split lived inside the Palace walls, on both sides of today's Rodrigova and Bajamontijeva streets, north of the Majstora Jurja street and south of Kresimirova Street, in houses which were empty due to plague. Christians and Jews both occupied the surrounding streets and lived in harmony. The ghetto was closed with two doors around 1777, and remained that way until the arrival of Napoleon's army some thirty years later.
+
+Holes visible in stone side doors in Bajamontijeva and Rodrigova street which served to preserve mezuzahs are reminders of the Jewish presence in the city. Arnirova kula, the tower in the north-western part of the Palace, was known as the Jewish Tower ot the Jewish Position, as this was the place where the Jews of Split guarded the city from the Ottoman invasion.
+
+The otherwise tolerant cohabitation of Jews and the locals had only one incident in 1942 during Italian occupation when a graoup of fascist pillaged the synagogue, stealing the silver and burning the scriptures on the town square. They also pillaged the neighbouring bookstore owned by Vid Morpurgo. This bookstore stands in exactly the same place  today as it did in 1860, looking the same and bearing the same name.
+
+Finally, the Jewish cemetery on the eastern part of Marjan Hill, and dating back to 1573. is one of the oldest preserved such cemeteries in the world. It has around 700 tombstones, mostly dating from the 18th and 19th century. Beautiful Sephardic scripture is still visible on some of the tombstones, which illustrates the continuation of Jewish tradition in Split.
