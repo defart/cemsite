@@ -6,4 +6,4 @@ excerpt: Interactive cemetery map added
 
 ---
 
-There should be some text here...
+You can view the map [here](/map).

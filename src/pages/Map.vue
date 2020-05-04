@@ -6,8 +6,15 @@
         <h1 class="contact-title">Interactive Map of the cemetery</h1>
       </div>
 
-        <div id="cemmap" class="map"> 
+        <div id="cemeteryMapContainer" class="map" >
         </div>
+
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+
+      <script type="application/javascript" src="/cemLib.js" />
     </div>
   </Layout>
 </template>
@@ -27,9 +34,10 @@ export default {}
 }
 
 .map {
-  width:100%;
-  height: 50em;
-  border: 1px solid black;
+  position: absolute;
+  left:5%;
+  margin-bottom: 10em;
+  width:90vw;
 }
 </style>
 
