@@ -7,6 +7,9 @@
       </div>
 
         <div id="cemeteryMapContainer" class="map" >
+          <center>
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1f430a36197347.57135ca19bbf5.gif"/>
+          </center>
         </div>
 
       <br/>
